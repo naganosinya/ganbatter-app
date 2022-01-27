@@ -6,8 +6,8 @@
 
 ## Set up
 ```zsh
-$ git clone https://github.com/SonicGardenCamp/ganbatter.git
-$ cd ./ganbatter
+$ git clone https://github.com/naganosinya/ganbatter-app.git
+$ cd ./ganbatter-app
 $ bundle config set --local without 'production'
 $ bundle install
 $ rails db:migrate
